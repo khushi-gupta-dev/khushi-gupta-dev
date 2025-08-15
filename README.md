@@ -31,6 +31,6 @@ Hi, I'm **Khushi Gupta** — a passionate tech learner and 2nd-year **B.Tech CSE
   </p>
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/khushi-gupta-210002372/) • [Email](mailto:khushi.gupta28.dev@gmail.com)
+ •[LinkedIn](https://www.linkedin.com/in/khushi-gupta-210002372/) </br>• [Email](mailto:khushi.gupta28.dev@gmail.com)
 
 ⭐ *"Keep learning, keep building, and stay curious!"*
