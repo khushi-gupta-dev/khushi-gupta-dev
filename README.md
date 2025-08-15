@@ -7,7 +7,7 @@
 
 ## ✨ About Me
 
-Hi, I'm **Khushi Gupta** — a passionate tech learner and 2nd-year **B.Tech CSE** student, currently exploring the exciting world of **Full Stack Web Development (MERN)** and **DSA**.
+Hi, I'm **Khushi Gupta** — a passionate tech learner and 2nd-year **B.Tech CSE** student, currently exploring the exciting world of **Full Stack Web Development (MERN)** and **DSA**.&nbsp;
 ☕ Brewing coffee while debugging  
 🌍 Exploring new tech trends
 
